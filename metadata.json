@@ -1,0 +1,6 @@
+{
+  "name": "Crivo CRM - Gestão Médico-Pericial",
+  "description": "CRM e gestão pericial para a Crivo Forense e Dra. Karine Reis. Assistência técnica especializada e perícias judiciais em processos trabalhistas, previdenciários e cíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
